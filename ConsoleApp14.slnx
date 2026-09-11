@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="HOTEL RESERVATION SYSTEM/HOTEL RESERVATION SYSTEM.csproj" />
+  <Project Path="MUSIC PLAYER SYSTEM/MUSIC PLAYER SYSTEM.csproj" />
   <Project Path="Task/Task.csproj" />
 </Solution>
