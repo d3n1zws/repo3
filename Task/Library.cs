@@ -1,6 +1,4 @@
-﻿
-
-namespace Task
+﻿namespace Task
 {
     internal class Library
     {
